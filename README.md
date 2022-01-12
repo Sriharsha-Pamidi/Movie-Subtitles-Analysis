@@ -1,5 +1,4 @@
-# ECE225A-Project
-## Movie Subtitles Analysis
+# ECE225A-Project - Emotional Analysis of Movies Using Textual Contents
 
 
 
